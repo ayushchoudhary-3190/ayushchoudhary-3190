@@ -1,4 +1,4 @@
-![banner](./banner.png)
+![banner](./banner2.0.png)
 # Hi, I'm Ayush 👋
 
 Backend Engineer focused on building reliable, scalable distributed systems. I enjoy working close to the metal — designing systems that hold up under real load, debugging production issues, and understanding how things actually work under the hood.
