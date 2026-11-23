@@ -25,12 +25,15 @@ Fault-tolerant distributed file storage in Go. Parallel chunk uploads using goro
 #### [stockledger](https://github.com/ayushchoudhary-3190/stockledger)
 Decentralized stock exchange built on an AMM (Automated Market Maker) with `x·y=k` constant product formula. Hub-and-spoke liquidity pool architecture, Router contract for two-hop swaps, Kafka-based event indexer.
 
+#### [Sales Analysis dashboard](https://github.com/ayushchoudhary-3190/sales-analysis-project)
+End to end sales analysis of FMCG products database with interactive visualisations and dashboards.
+
 ---
 
 ### 📈 Experience
 
-- **Backend Engineer Intern @ MandiBazaar** *(Sep 2025 – Dec 2025)*
-  Golang microservices, PostgreSQL optimization, REST APIs for agricultural trade platform
+- **Backend Engineer/Data Analyst Intern @ MandiBazaar** *(Sep 2025 – Dec 2025)*
+  Golang microservices, PostgreSQL optimization, REST APIs, Data processing,cleaning, integration for agricultural trade platform
 
 ---
 
